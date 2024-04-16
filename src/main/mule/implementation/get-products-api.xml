@@ -12,9 +12,9 @@ output application/json
 ---
 {
   productID: "12356",
-  productName: "Mule Course",
+  productName: "MuleSoft Course for beginners",
   productProducer: "Udemy",
-  productDescription: "Complete mulesoft course"
+  productDescription: "Complete mule developer course indepth "
 }]]></ee:set-payload>
             </ee:message>
         </ee:transform>
